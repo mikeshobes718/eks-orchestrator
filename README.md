@@ -1,5 +1,7 @@
 # EKS Orchestrator
 
+[![CI](https://github.com/mikeshobes718/eks-orchestrator/actions/workflows/ci.yml/badge.svg)](https://github.com/mikeshobes718/eks-orchestrator/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Python CLI for Amazon EKS cluster/nodegroup lifecycle, RBAC, add-ons, manifest rollout, and a job runner — with dry-run plans and safe apply.
 
 ## Features
